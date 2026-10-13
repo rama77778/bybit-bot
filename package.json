@@ -1,0 +1,8 @@
+{
+  "name": "bybit-bot",
+  "version": "1.0.0",
+  "main": "bybit-scalper.js",
+  "scripts": {
+    "start": "node bybit-scalper.js"
+  }
+}
